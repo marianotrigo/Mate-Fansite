@@ -1,0 +1,25 @@
+html {
+  background: url("mate2.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+  font-family: fantasy;
+}
+
+p {
+  color: white;
+  font-size: 30px;
+  font-family: fantasy;
+  text-transform: uppercase;
+}
+
+p:hover {
+  background-color: green;
+  border-radius: 80%;
+}
+
+.mate {
+  width: 50%;
+}
